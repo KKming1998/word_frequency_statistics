@@ -1,0 +1,668 @@
+2024-11-12 21:46:43,602 - INFO - Program started at 2024-11-12 21:46:43.602193
+2024-11-12 21:46:43,664 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-12 21:46:43,665 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-12 21:46:44,081 - DEBUG - Loading model cost 0.418 seconds.
+2024-11-12 21:46:44,081 - DEBUG - Prefix dict has been built successfully.
+2024-11-12 21:46:44,105 - INFO - Top 10 words in localdir\ASEG用户使用手册.docx: {'邮件': 141, 'ASEG': 79, '发送': 60, '记录': 52, '服务器': 39, '设置': 36, '成功': 34, '拦截': 33, '策略': 32, '显示': 27}
+2024-11-12 21:47:15,013 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-12 21:47:15,037 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-12 21:47:15,056 - INFO - Top 10 words in localdir\红楼梦_2.txt: {'雨村': 26, '封肃': 13, '两个': 11, '如今': 11, '一个': 10, '不能': 10, '女儿': 9, '老爹': 8, '出来': 7, '读书': 7}
+2024-11-12 21:47:15,075 - INFO - Top 10 words in localdir\红楼梦_3.txt: {'黛玉': 26, '王夫人': 17, '一个': 15, '姊妹': 14, '雨村': 13, '丫鬟': 13, '两个': 11, '一时': 10, '贾母': 9, '进入': 8}
+2024-11-12 21:47:15,149 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-12 21:47:15,243 - INFO - Top 10 words in localdir\终端DLP用户使用手册-MAC.docx: {'敏感': 46, '文件': 42, '设定': 38, '方法': 34, 'LibraryApplication': 33, '版本': 32, '尝试': 32, '确认': 28, '准备': 28, '工作': 28}
+2024-11-12 21:47:15,303 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Ubuntu.docx: {'敏感': 32, '水印': 28, '文件': 26, '策略': 25, '设定': 25, '准备': 24, '工作': 24, '确认': 23, '通道': 22, '里面': 21}
+2024-11-12 21:47:15,376 - INFO - Top 10 words in localdir\终端DLP用户使用手册-UOS.docx: {'敏感': 39, '文件': 32, '确认': 30, '设定': 30, '水印': 28, '策略': 25, '通道': 25, '准备': 25, '工作': 25, '通过': 24}
+2024-11-12 21:47:15,506 - INFO - Top 10 words in localdir\终端DLP用户基本配置手册-Windows.docx: {'文件': 61, '配置': 56, '方法': 53, '选择': 53, '审计': 53, '敏感': 49, '策略': 47, '拦截': 44, 'USB': 36, '确认': 35}
+2024-11-12 21:47:15,506 - INFO - Total processed files: 10
+2024-11-12 21:47:15,506 - INFO - Unsupported files: []
+2024-11-12 21:47:15,509 - INFO - Results written to localdir_20241112_214715.csv
+2024-11-12 21:47:15,509 - INFO - Program ended at 2024-11-12 21:47:15.509014
+2024-11-12 21:47:15,509 - INFO - Total time taken: 0:00:31.906821
+2024-11-12 21:50:53,718 - INFO - Program started at 2024-11-12 21:50:53.718532
+2024-11-12 21:50:53,779 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-12 21:50:53,781 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-12 21:50:54,186 - DEBUG - Loading model cost 0.407 seconds.
+2024-11-12 21:50:54,186 - DEBUG - Prefix dict has been built successfully.
+2024-11-12 21:50:54,207 - INFO - Top 10 words in localdir\ASEG用户使用手册.docx: {'邮件': 141, 'ASEG': 79, '发送': 60, '记录': 52, '服务器': 39, '设置': 36, '成功': 34, '拦截': 33, '策略': 32, '显示': 27}
+2024-11-12 21:51:21,590 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-12 21:51:21,610 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-12 21:51:21,627 - INFO - Top 10 words in localdir\红楼梦_2.txt: {'雨村': 26, '封肃': 13, '两个': 11, '如今': 11, '一个': 10, '不能': 10, '女儿': 9, '老爹': 8, '出来': 7, '读书': 7}
+2024-11-12 21:51:21,644 - INFO - Top 10 words in localdir\红楼梦_3.txt: {'黛玉': 26, '王夫人': 17, '一个': 15, '姊妹': 14, '雨村': 13, '丫鬟': 13, '两个': 11, '一时': 10, '贾母': 9, '进入': 8}
+2024-11-12 21:51:21,711 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-12 21:51:21,809 - INFO - Top 10 words in localdir\终端DLP用户使用手册-MAC.docx: {'敏感': 46, '文件': 42, '设定': 38, '方法': 34, 'LibraryApplication': 33, '版本': 32, '尝试': 32, '确认': 28, '准备': 28, '工作': 28}
+2024-11-12 21:51:21,869 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Ubuntu.docx: {'敏感': 32, '水印': 28, '文件': 26, '策略': 25, '设定': 25, '准备': 24, '工作': 24, '确认': 23, '通道': 22, '里面': 21}
+2024-11-12 21:51:21,941 - INFO - Top 10 words in localdir\终端DLP用户使用手册-UOS.docx: {'敏感': 39, '文件': 32, '确认': 30, '设定': 30, '水印': 28, '策略': 25, '通道': 25, '准备': 25, '工作': 25, '通过': 24}
+2024-11-12 21:51:22,070 - INFO - Top 10 words in localdir\终端DLP用户基本配置手册-Windows.docx: {'文件': 61, '配置': 56, '方法': 53, '选择': 53, '审计': 53, '敏感': 49, '策略': 47, '拦截': 44, 'USB': 36, '确认': 35}
+2024-11-12 21:51:22,070 - INFO - Total processed files: 10
+2024-11-12 21:51:22,070 - INFO - Unsupported files: []
+2024-11-12 21:51:22,073 - INFO - Results written to localdir_20241112_215122.csv
+2024-11-12 21:51:22,073 - INFO - Program ended at 2024-11-12 21:51:22.073811
+2024-11-12 21:51:22,073 - INFO - Total time taken: 0:00:28.355279
+2024-11-15 08:09:58,035 - INFO - Program started at 2024-11-15 08:09:58.035726
+2024-11-15 08:09:58,037 - WARNING - Unsupported file type: localdir\autoauto.xlsm
+2024-11-15 08:10:41,024 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:10:41,033 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 08:10:41,033 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:10:41,636 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:10:41,639 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:10:42,286 - DEBUG - Loading model cost 0.650 seconds.
+2024-11-15 08:10:42,286 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:10:42,297 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:10:42,302 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:10:42,326 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:10:42,326 - WARNING - Unsupported file type: localdir\终端-DLP系统应急响应及恢复预案.doc
+2024-11-15 08:10:42,445 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:10:42,452 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:10:42,452 - INFO - Total processed files: 6
+2024-11-15 08:10:42,452 - INFO - Unsupported files: ['localdir\\autoauto.xlsm', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\终端-DLP系统应急响应及恢复预案.doc']
+2024-11-15 08:10:42,456 - INFO - Results written to localdir_20241115_081042.csv
+2024-11-15 08:10:42,456 - INFO - Program ended at 2024-11-15 08:10:42.456713
+2024-11-15 08:10:42,456 - INFO - Total time taken: 0:00:44.420987
+2024-11-15 08:20:39,621 - INFO - Program started at 2024-11-15 08:20:39.620456
+2024-11-15 08:20:39,634 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:20:39,635 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:20:40,075 - DEBUG - Loading model cost 0.441 seconds.
+2024-11-15 08:20:40,075 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:20:40,092 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 08:21:11,941 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:21:15,074 - ERROR - Error processing localdir\Symantec_DLP应用案例.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', 'Symantec_DLP应用案例.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:21:15,075 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:21:15,442 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:21:15,444 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:21:15,463 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:21:18,070 - ERROR - Error processing localdir\终端-DLP系统应急响应及恢复预案.doc: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '终端-DLP系统应急响应及恢复预案.doc:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:21:18,144 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:21:18,151 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:21:18,151 - INFO - Total processed files: 7
+2024-11-15 08:21:18,151 - INFO - Unsupported files: ['localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\终端-DLP系统应急响应及恢复预案.doc']
+2024-11-15 08:21:18,155 - INFO - Results written to localdir_20241115_082118.csv
+2024-11-15 08:21:18,155 - INFO - Program ended at 2024-11-15 08:21:18.155349
+2024-11-15 08:21:18,155 - INFO - Total time taken: 0:00:38.534893
+2024-11-15 08:23:07,055 - INFO - Program started at 2024-11-15 08:23:07.055635
+2024-11-15 08:23:07,064 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:23:07,065 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:23:07,548 - DEBUG - Loading model cost 0.484 seconds.
+2024-11-15 08:23:07,549 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:23:07,562 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 08:23:40,175 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:23:42,708 - ERROR - Error processing localdir\Symantec_DLP应用案例.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', 'Symantec_DLP应用案例.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:42,709 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:23:43,253 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:23:46,010 - ERROR - Error processing localdir\明朝万达数据梳理使用培训v1.1.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '明朝万达数据梳理使用培训v1.1.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:48,712 - ERROR - Error processing localdir\神州数码-Bluecoat配置手册v1.0.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '神州数码-Bluecoat配置手册v1.0.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:48,716 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:23:48,743 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:23:51,429 - ERROR - Error processing localdir\终端-DLP系统应急响应及恢复预案.doc: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '终端-DLP系统应急响应及恢复预案.doc:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:51,500 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:23:54,077 - ERROR - Error processing localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '绿盟培训SOP-DS-V3.0R01F03.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:56,862 - ERROR - Error processing localdir\网络爬虫简介.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '网络爬虫简介.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:56,873 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:23:59,729 - ERROR - Error processing localdir\雷神.ppt: (-2147352567, '发生意外。', (0, 'Microsoft Excel', '雷神.ppt:: 文件格式无效。', 'xlmain11.chm', 0, -2146827284), None)
+2024-11-15 08:23:59,730 - INFO - Total processed files: 7
+2024-11-15 08:23:59,730 - INFO - Unsupported files: ['localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\终端-DLP系统应急响应及恢复预案.doc', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\网络爬虫简介.ppt', 'localdir\\雷神.ppt']
+2024-11-15 08:23:59,735 - INFO - Results written to localdir_20241115_082359.csv
+2024-11-15 08:23:59,735 - INFO - Program ended at 2024-11-15 08:23:59.735255
+2024-11-15 08:23:59,735 - INFO - Total time taken: 0:00:52.679620
+2024-11-15 08:32:53,819 - INFO - Program started at 2024-11-15 08:32:53.819915
+2024-11-15 08:32:53,827 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:32:53,828 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:32:54,292 - DEBUG - Loading model cost 0.465 seconds.
+2024-11-15 08:32:54,292 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:32:54,311 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 08:33:38,756 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:33:42,205 - INFO - Could not import comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12: No module named 'comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12'
+2024-11-15 08:33:42,214 - INFO - # Generating comtypes.gen._91493440_5A91_11CF_8700_00AA0060263B_0_2_12
+2024-11-15 08:33:49,432 - INFO - # Generating comtypes.gen.PowerPoint
+2024-11-15 08:33:49,456 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2024-11-15 08:33:49,458 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2024-11-15 08:33:49,645 - INFO - # Generating comtypes.gen.stdole
+2024-11-15 08:33:49,702 - INFO - Could not import comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8: No module named 'comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8'
+2024-11-15 08:33:49,706 - INFO - # Generating comtypes.gen._2DF8D04C_5BFA_101B_BDE5_00AA0044DE52_0_2_8
+2024-11-15 08:33:55,832 - INFO - # Generating comtypes.gen.Office
+2024-11-15 08:33:57,170 - INFO - Could not import comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3: No module named 'comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3'
+2024-11-15 08:33:57,174 - INFO - # Generating comtypes.gen._0002E157_0000_0000_C000_000000000046_0_5_3
+2024-11-15 08:33:57,867 - INFO - # Generating comtypes.gen.VBIDE
+2024-11-15 08:33:59,068 - ERROR - Error processing localdir\Symantec_DLP应用案例.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:00,355 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:34:01,246 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:34:05,805 - ERROR - Error processing localdir\明朝万达数据梳理使用培训v1.1.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:11,677 - ERROR - Error processing localdir\神州数码-Bluecoat配置手册v1.0.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:12,891 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:34:13,024 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:34:16,778 - INFO - Could not import comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7: No module named 'comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7'
+2024-11-15 08:34:16,780 - INFO - # Generating comtypes.gen._00020905_0000_0000_C000_000000000046_0_8_7
+2024-11-15 08:34:37,302 - INFO - # Generating comtypes.gen.Word
+2024-11-15 08:34:38,650 - ERROR - Error processing localdir\终端-DLP系统应急响应及恢复预案.doc: (-2146823114, None, ('很抱歉，找不到您的文件。该项目是否已移动、重命名或删除?\r (C:\\Windows\\...\\终端-DLP系统应急响应及恢复预案.doc)', 'Microsoft Word', 'wdmain11.chm', 24654, None))
+2024-11-15 08:34:38,727 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:34:41,096 - ERROR - Error processing localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:47,543 - ERROR - Error processing localdir\网络爬虫简介.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:48,905 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:34:54,205 - ERROR - Error processing localdir\雷神.ppt: (-2147024893, '系统找不到指定的路径。', (None, None, None, 0, None))
+2024-11-15 08:34:55,413 - INFO - Total processed files: 7
+2024-11-15 08:34:55,413 - INFO - Unsupported files: ['localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\终端-DLP系统应急响应及恢复预案.doc', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\网络爬虫简介.ppt', 'localdir\\雷神.ppt']
+2024-11-15 08:34:55,433 - INFO - Results written to localdir_20241115_083455.csv
+2024-11-15 08:34:55,433 - INFO - Program ended at 2024-11-15 08:34:55.433843
+2024-11-15 08:34:55,433 - INFO - Total time taken: 0:02:01.613928
+2024-11-15 08:45:51,448 - INFO - Program started at 2024-11-15 08:45:51.448649
+2024-11-15 08:45:51,467 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:45:51,469 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:45:51,900 - DEBUG - Loading model cost 0.433 seconds.
+2024-11-15 08:45:51,902 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:45:51,922 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 08:46:40,108 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:46:50,469 - ERROR - Error converting localdir\Symantec_DLP应用案例.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:46:50,470 - WARNING - Failed to convert localdir\Symantec_DLP应用案例.ppt to pptx
+2024-11-15 08:46:50,470 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:46:51,115 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:46:55,446 - ERROR - Error converting localdir\明朝万达数据梳理使用培训v1.1.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:46:55,446 - WARNING - Failed to convert localdir\明朝万达数据梳理使用培训v1.1.ppt to pptx
+2024-11-15 08:46:58,174 - ERROR - Error converting localdir\神州数码-Bluecoat配置手册v1.0.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:46:58,174 - WARNING - Failed to convert localdir\神州数码-Bluecoat配置手册v1.0.ppt to pptx
+2024-11-15 08:46:58,179 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:46:58,221 - INFO - Top 10 words in localdir\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:47:00,965 - ERROR - Error converting localdir\终端-DLP系统应急响应及恢复预案.doc to docx: Invalid input format! Got "doc" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:47:00,965 - WARNING - Failed to convert localdir\终端-DLP系统应急响应及恢复预案.doc to docx
+2024-11-15 08:47:01,089 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:47:04,558 - ERROR - Error converting localdir\绿盟培训SOP-DS-V3.0R01F03.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:47:04,558 - WARNING - Failed to convert localdir\绿盟培训SOP-DS-V3.0R01F03.ppt to pptx
+2024-11-15 08:47:07,211 - ERROR - Error converting localdir\网络爬虫简介.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:47:07,211 - WARNING - Failed to convert localdir\网络爬虫简介.ppt to pptx
+2024-11-15 08:47:07,224 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:47:10,188 - ERROR - Error converting localdir\雷神.ppt to pptx: Invalid input format! Got "ppt" but expected one of these: biblatex, bibtex, bits, commonmark, commonmark_x, creole, csljson, csv, djot, docbook, docx, dokuwiki, endnotexml, epub, fb2, gfm, haddock, html, ipynb, jats, jira, json, latex, man, markdown, markdown_github, markdown_mmd, markdown_phpextra, markdown_strict, mediawiki, muse, native, odt, opml, org, ris, rst, rtf, t2t, textile, tikiwiki, tsv, twiki, typst, vimwiki
+2024-11-15 08:47:10,188 - WARNING - Failed to convert localdir\雷神.ppt to pptx
+2024-11-15 08:47:10,188 - INFO - Total processed files: 7
+2024-11-15 08:47:10,188 - INFO - Unsupported files: ['localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\终端-DLP系统应急响应及恢复预案.doc', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\网络爬虫简介.ppt', 'localdir\\雷神.ppt']
+2024-11-15 08:47:10,196 - INFO - Results written to localdir_20241115_084710.csv
+2024-11-15 08:47:10,196 - INFO - Program ended at 2024-11-15 08:47:10.196027
+2024-11-15 08:47:10,196 - INFO - Total time taken: 0:01:18.747378
+2024-11-15 08:57:45,297 - INFO - Program started at 2024-11-15 08:57:45.297306
+2024-11-15 08:59:01,119 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 08:59:01,124 - ERROR - Error processing localdir\Symantec_DLP应用案例.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:01,125 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 08:59:01,885 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 08:59:01,891 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 08:59:02,980 - DEBUG - Loading model cost 1.094 seconds.
+2024-11-15 08:59:02,982 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 08:59:03,003 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 08:59:03,010 - ERROR - Error processing localdir\明朝万达数据梳理使用培训v1.1.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,018 - ERROR - Error processing localdir\神州数码-Bluecoat配置手册v1.0.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,024 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 08:59:03,030 - ERROR - Error processing localdir\终端-DLP系统应急响应及恢复预案.doc: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,239 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 08:59:03,246 - ERROR - Error processing localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,250 - ERROR - Error processing localdir\网络爬虫简介.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,497 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 08:59:03,501 - ERROR - Error processing localdir\雷神.ppt: [WinError 2] 系统找不到指定的文件。
+2024-11-15 08:59:03,516 - INFO - Top 10 words in localdir\sub1\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 08:59:03,555 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 08:59:03,555 - INFO - Total processed files: 7
+2024-11-15 08:59:03,555 - INFO - Unsupported files: ['localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\终端-DLP系统应急响应及恢复预案.doc', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\网络爬虫简介.ppt', 'localdir\\雷神.ppt']
+2024-11-15 08:59:03,563 - INFO - Results written to localdir_20241115_085903.csv
+2024-11-15 08:59:03,563 - INFO - Program ended at 2024-11-15 08:59:03.563210
+2024-11-15 08:59:03,563 - INFO - Total time taken: 0:01:18.265904
+2024-11-15 10:19:12,458 - INFO - Program started at 2024-11-15 10:19:12.458719
+2024-11-15 10:19:12,459 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 10:19:12,459 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 10:19:40,434 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 10:19:40,435 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 10:19:40,470 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 10:19:40,472 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 10:19:40,860 - DEBUG - Loading model cost 0.390 seconds.
+2024-11-15 10:19:40,860 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 10:19:40,868 - INFO - Top 10 words in localdir\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 10:19:40,868 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 10:19:40,868 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 10:19:41,226 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 10:19:41,226 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 10:19:41,226 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 10:19:41,230 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 10:19:41,339 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 10:19:41,339 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 10:19:41,347 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 10:19:41,347 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 10:19:41,353 - INFO - Top 10 words in localdir\sub1\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 10:19:41,371 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 10:19:41,371 - INFO - Total processed files: 8
+2024-11-15 10:19:41,371 - INFO - Unsupported files: ['localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\ppt.ppt', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 10:19:41,376 - INFO - Results written to localdir_20241115_101941.csv
+2024-11-15 10:19:41,376 - INFO - Program ended at 2024-11-15 10:19:41.376080
+2024-11-15 10:19:41,376 - INFO - Total time taken: 0:00:28.917361
+2024-11-15 10:21:35,617 - INFO - Program started at 2024-11-15 10:21:35.617767
+2024-11-15 10:21:35,625 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 10:21:35,627 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 10:21:36,010 - DEBUG - Loading model cost 0.385 seconds.
+2024-11-15 10:21:36,010 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 10:21:36,023 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 10:21:36,023 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 10:21:36,023 - WARNING - Unsupported file type: localdir\doc.py
+
+
+
+2024-11-15 10:22:59,114 - INFO - Program started at 2024-11-15 10:22:59.114684
+2024-11-15 10:22:59,122 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 10:22:59,124 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 10:22:59,510 - DEBUG - Loading model cost 0.387 seconds.
+2024-11-15 10:22:59,511 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 10:22:59,524 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 10:22:59,524 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 10:22:59,524 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 10:23:26,759 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 10:23:26,760 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 10:23:26,760 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 10:23:26,760 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 10:23:27,072 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 10:23:27,072 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 10:23:27,072 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 10:23:27,074 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 10:23:27,137 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 10:23:27,137 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 10:23:27,143 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 10:23:27,143 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 10:23:27,182 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 10:23:27,199 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 10:23:27,200 - INFO - Total processed files: 8
+2024-11-15 10:23:27,200 - INFO - Unsupported files: ['localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\ppt.ppt', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 10:23:27,204 - INFO - Results written to localdir_20241115_102327.csv
+2024-11-15 10:23:27,204 - INFO - Program ended at 2024-11-15 10:23:27.204326
+2024-11-15 10:23:27,204 - INFO - Total time taken: 0:00:28.089642
+2024-11-15 10:27:25,626 - INFO - Program started at 2024-11-15 10:27:25.626862
+2024-11-15 10:27:25,634 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 10:27:25,635 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 10:27:26,040 - DEBUG - Loading model cost 0.406 seconds.
+2024-11-15 10:27:26,040 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 10:27:26,055 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 10:27:26,055 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 10:27:26,055 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 10:27:54,837 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 10:27:54,837 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 10:27:54,838 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 10:27:54,838 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 10:27:55,537 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 10:27:55,537 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 10:27:55,537 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 10:27:55,540 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 10:27:55,605 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 10:27:55,606 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 10:27:55,612 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 10:27:55,612 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 10:27:55,655 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 10:27:55,674 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 10:27:55,674 - INFO - Total processed files: 8
+2024-11-15 10:27:55,674 - INFO - Unsupported files: ['localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\ppt.ppt', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 10:27:55,677 - INFO - Results written to localdir_20241115_102755.csv
+2024-11-15 10:27:55,677 - INFO - Program ended at 2024-11-15 10:27:55.677221
+2024-11-15 10:27:55,677 - INFO - Total time taken: 0:00:30.050359
+2024-11-15 10:35:04,619 - INFO - Program started at 2024-11-15 10:35:04.619761
+2024-11-15 10:35:04,627 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 10:35:04,628 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 10:35:05,010 - DEBUG - Loading model cost 0.382 seconds.
+2024-11-15 10:35:05,010 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 10:35:05,029 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 10:35:05,029 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 10:35:05,029 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 10:35:33,750 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 10:35:37,831 - INFO - Top 10 words in localdir\ppt.ppt: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 10:35:38,686 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 10:35:38,687 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 10:35:39,470 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 10:35:41,379 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 10:35:42,423 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 10:35:42,427 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 10:35:42,596 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 10:35:45,103 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 10:35:45,117 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 10:35:45,519 - INFO - Top 10 words in localdir\雷神.ppt: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 10:35:45,605 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 10:35:45,699 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 10:35:45,700 - INFO - Total processed files: 14
+2024-11-15 10:35:45,700 - INFO - Unsupported files: ['localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm']
+2024-11-15 10:35:45,707 - INFO - Results written to localdir_20241115_103545.csv
+2024-11-15 10:35:45,707 - INFO - Program ended at 2024-11-15 10:35:45.707413
+2024-11-15 10:35:45,707 - INFO - Total time taken: 0:00:41.087652
+2024-11-15 14:18:53,118 - INFO - Program started at 2024-11-15 14:18:53.118128
+2024-11-15 14:18:53,118 - WARNING - Unsupported file type: localdir\1.doc
+2024-11-15 14:18:53,118 - WARNING - Unsupported file type: localdir\3.doc
+2024-11-15 14:18:53,125 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 14:18:53,127 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 14:18:53,520 - DEBUG - Loading model cost 0.395 seconds.
+2024-11-15 14:18:53,521 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 14:18:53,537 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 14:18:53,537 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 14:18:53,537 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 14:18:53,537 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 14:18:53,555 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:19:21,848 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 14:19:21,849 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 14:19:21,849 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 14:19:21,849 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 14:19:21,849 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 14:19:21,885 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 14:19:21,885 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 14:19:22,230 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 14:19:22,231 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 14:19:22,458 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 14:19:22,458 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 14:19:22,554 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 14:19:22,558 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 14:19:22,666 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 14:19:22,666 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 14:19:22,788 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 14:19:22,797 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 14:19:22,797 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 14:19:22,813 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 14:19:22,858 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 14:19:22,886 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:19:22,886 - INFO - Total processed files: 14
+2024-11-15 14:19:22,887 - INFO - Unsupported files: ['localdir\\1.doc', 'localdir\\3.doc', 'localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 14:19:22,894 - INFO - Results written to localdir_20241115_141922.csv
+2024-11-15 14:19:22,894 - INFO - Program ended at 2024-11-15 14:19:22.894229
+2024-11-15 14:19:22,894 - INFO - Total time taken: 0:00:29.776101
+2024-11-15 14:22:25,390 - INFO - Program started at 2024-11-15 14:22:25.390934
+2024-11-15 14:22:25,392 - WARNING - Unsupported file type: localdir\1.doc
+2024-11-15 14:22:25,392 - WARNING - Unsupported file type: localdir\3.doc
+2024-11-15 14:22:25,398 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 14:22:25,400 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 14:22:25,788 - DEBUG - Loading model cost 0.390 seconds.
+2024-11-15 14:22:25,789 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 14:22:25,804 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 14:22:25,804 - WARNING - Unsupported file type: localdir\doc.doc
+2024-11-15 14:22:25,804 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 14:22:25,804 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 14:22:25,823 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:22:53,332 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 14:22:53,333 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 14:22:53,333 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 14:22:53,333 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 14:22:53,333 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 14:22:53,365 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 14:22:53,365 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 14:22:53,791 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 14:22:53,791 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 14:22:54,013 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 14:22:54,013 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 14:22:54,101 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 14:22:54,103 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 14:22:54,168 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 14:22:54,168 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 14:22:54,285 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 14:22:54,291 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 14:22:54,291 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 14:22:54,307 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 14:22:54,348 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 14:22:54,374 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:22:54,374 - INFO - Total processed files: 14
+2024-11-15 14:22:54,374 - INFO - Unsupported files: ['localdir\\1.doc', 'localdir\\3.doc', 'localdir\\doc.doc', 'localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 14:22:54,376 - INFO - Results written to localdir_20241115_142254.csv
+2024-11-15 14:22:54,376 - INFO - Program ended at 2024-11-15 14:22:54.376448
+2024-11-15 14:22:54,376 - INFO - Total time taken: 0:00:28.985514
+2024-11-15 14:25:01,382 - INFO - Program started at 2024-11-15 14:25:01.382475
+2024-11-15 14:25:04,742 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 14:25:04,743 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 14:25:05,195 - DEBUG - Loading model cost 0.453 seconds.
+2024-11-15 14:25:05,195 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 14:25:05,209 - INFO - Top 10 words in localdir\1.doc: {'Mac': 1, 'OS': 1, 'MHTMMSWDRTTA': 1, 'comapplequarantinedbabMicrosoftxWord': 1, 'This': 1, 'resource': 1, 'fork': 1, 'intentionally': 1, 'left': 1, 'blank': 1}
+2024-11-15 14:25:08,123 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:25:08,130 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 14:25:11,270 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 14:25:11,270 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 14:25:11,270 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 14:25:11,289 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:25:42,367 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 14:25:42,368 - WARNING - Unsupported file type: localdir\ppt.ppt
+2024-11-15 14:25:42,368 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 14:25:42,368 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 14:25:42,368 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.ppt
+2024-11-15 14:25:42,399 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 14:25:42,399 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 14:25:43,273 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 14:25:43,273 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.ppt
+2024-11-15 14:25:43,416 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 14:25:43,416 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.ppt
+2024-11-15 14:25:43,506 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 14:25:43,508 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 14:25:43,574 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 14:25:43,574 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.ppt
+2024-11-15 14:25:43,684 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 14:25:43,689 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 14:25:43,689 - WARNING - Unsupported file type: localdir\雷神.ppt
+2024-11-15 14:25:43,704 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 14:25:43,746 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 14:25:43,763 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:25:43,763 - INFO - Total processed files: 17
+2024-11-15 14:25:43,763 - INFO - Unsupported files: ['localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 14:25:43,767 - INFO - Results written to localdir_20241115_142543.csv
+2024-11-15 14:25:43,767 - INFO - Program ended at 2024-11-15 14:25:43.767818
+2024-11-15 14:25:43,767 - INFO - Total time taken: 0:00:42.385343
+2024-11-15 14:51:39,600 - INFO - Program started at 2024-11-15 14:51:39.600314
+2024-11-15 14:51:43,212 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 14:51:43,214 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 14:51:43,667 - DEBUG - Loading model cost 0.454 seconds.
+2024-11-15 14:51:43,668 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 14:51:43,680 - INFO - Top 10 words in localdir\1.doc: {'Mac': 1, 'OS': 1, 'MHTMMSWDRTTA': 1, 'comapplequarantinedbabMicrosoftxWord': 1, 'This': 1, 'resource': 1, 'fork': 1, 'intentionally': 1, 'left': 1, 'blank': 1}
+2024-11-15 14:51:43,680 - ERROR - Error processing localdir\1.docx: Package not found at 'localdir\1.docx'
+2024-11-15 14:51:46,647 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:51:46,656 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 14:51:50,048 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 14:51:50,048 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 14:51:50,048 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 14:51:50,083 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:52:30,290 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 14:52:36,595 - INFO - Top 10 words in localdir\ppt.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:52:36,596 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 14:52:36,596 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 14:52:36,596 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 14:52:42,706 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:52:42,744 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 14:52:42,744 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 14:52:43,105 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 14:52:48,989 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:52:49,041 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 14:52:54,893 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:52:55,213 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 14:52:55,215 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 14:52:55,298 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 14:53:01,208 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:53:01,406 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 14:53:01,416 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 14:53:07,280 - INFO - Top 10 words in localdir\雷神.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:53:07,294 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 14:53:07,348 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 14:53:07,371 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:53:07,372 - INFO - Total processed files: 23
+2024-11-15 14:53:07,372 - INFO - Unsupported files: ['localdir\\1.docx', 'localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm']
+2024-11-15 14:53:07,377 - INFO - Results written to localdir_20241115_145307.csv
+2024-11-15 14:53:07,377 - INFO - Program ended at 2024-11-15 14:53:07.377284
+2024-11-15 14:53:07,377 - INFO - Total time taken: 0:01:27.776970
+2024-11-15 14:55:22,229 - INFO - Program started at 2024-11-15 14:55:22.229850
+2024-11-15 14:55:25,646 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 14:55:25,648 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 14:55:26,110 - DEBUG - Loading model cost 0.463 seconds.
+2024-11-15 14:55:26,111 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 14:55:26,122 - INFO - Top 10 words in localdir\1.doc: {'Mac': 1, 'OS': 1, 'MHTMMSWDRTTA': 1, 'comapplequarantinedbabMicrosoftxWord': 1, 'This': 1, 'resource': 1, 'fork': 1, 'intentionally': 1, 'left': 1, 'blank': 1}
+2024-11-15 14:55:26,122 - ERROR - Error processing localdir\1.docx: Package not found at 'localdir\1.docx'
+2024-11-15 14:55:29,012 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:55:29,019 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 14:55:32,165 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 14:55:32,165 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 14:55:32,165 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 14:55:32,184 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:56:04,017 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 14:56:11,264 - INFO - Top 10 words in localdir\ppt.ppt: {}
+2024-11-15 14:56:11,264 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 14:56:11,264 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 14:56:11,264 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 14:56:20,013 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {}
+2024-11-15 14:56:20,071 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 14:56:20,072 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 14:56:20,608 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 14:56:28,344 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 14:56:28,434 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 14:56:41,452 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {}
+2024-11-15 14:56:41,764 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 14:56:41,768 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 14:56:41,861 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 14:56:51,691 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {}
+2024-11-15 14:56:51,879 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 14:56:51,885 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 14:56:58,096 - INFO - Top 10 words in localdir\雷神.ppt: {}
+2024-11-15 14:56:58,123 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 14:56:58,198 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 14:56:58,233 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 14:56:58,233 - INFO - Total processed files: 18
+2024-11-15 14:56:58,234 - INFO - Unsupported files: ['localdir\\1.docx', 'localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 14:56:58,239 - INFO - Results written to localdir_20241115_145658.csv
+2024-11-15 14:56:58,239 - INFO - Program ended at 2024-11-15 14:56:58.239105
+2024-11-15 14:56:58,239 - INFO - Total time taken: 0:01:36.009255
+2024-11-15 15:00:39,319 - INFO - Program started at 2024-11-15 15:00:39.319841
+2024-11-15 15:00:42,660 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 15:00:42,662 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 15:00:43,129 - DEBUG - Loading model cost 0.467 seconds.
+2024-11-15 15:00:43,129 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 15:00:43,144 - INFO - Top 10 words in localdir\1.doc: {'Mac': 1, 'OS': 1, 'MHTMMSWDRTTA': 1, 'comapplequarantinedbabMicrosoftxWord': 1, 'This': 1, 'resource': 1, 'fork': 1, 'intentionally': 1, 'left': 1, 'blank': 1}
+2024-11-15 15:00:43,145 - ERROR - Error processing localdir\1.docx: Package not found at 'localdir\1.docx'
+2024-11-15 15:00:46,080 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:00:46,088 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 15:00:49,233 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 15:00:49,233 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 15:00:49,233 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 15:00:49,251 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:01:21,112 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 15:01:27,358 - INFO - Top 10 words in localdir\ppt.ppt: {}
+2024-11-15 15:01:27,359 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 15:01:27,359 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 15:01:27,359 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 15:01:34,867 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {}
+2024-11-15 15:01:34,868 - WARNING - Unsupported file type: localdir\Symantec_DLP应用案例.pptx
+2024-11-15 15:01:34,868 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm
+2024-11-15 15:01:34,868 - WARNING - Unsupported file type: localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx
+2024-11-15 15:01:44,912 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 15:01:44,912 - WARNING - Unsupported file type: localdir\明朝万达数据梳理使用培训v1.1.pptx
+2024-11-15 15:01:56,171 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {}
+2024-11-15 15:01:56,171 - WARNING - Unsupported file type: localdir\神州数码-Bluecoat配置手册v1.0.pptx
+2024-11-15 15:01:56,173 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 15:01:56,246 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 15:02:04,974 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {}
+2024-11-15 15:02:04,974 - WARNING - Unsupported file type: localdir\绿盟培训SOP-DS-V3.0R01F03.pptx
+2024-11-15 15:02:04,981 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 15:02:11,695 - INFO - Top 10 words in localdir\雷神.ppt: {}
+2024-11-15 15:02:11,695 - WARNING - Unsupported file type: localdir\雷神.pptx
+2024-11-15 15:02:11,695 - WARNING - Unsupported file type: localdir\sub1\PPTtoPPTX_out.pptx
+2024-11-15 15:02:11,715 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:02:11,715 - INFO - Total processed files: 11
+2024-11-15 15:02:11,715 - INFO - Unsupported files: ['localdir\\1.docx', 'localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\Symantec_DLP应用案例.pptx', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptm', 'localdir\\产品方案-IPGuard一体化终端安全整体解决方案.pptx', 'localdir\\明朝万达数据梳理使用培训v1.1.pptx', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.pptx', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.pptx', 'localdir\\雷神.ppt', 'localdir\\雷神.pptx', 'localdir\\sub1\\PPTtoPPTX_out.pptx']
+2024-11-15 15:02:11,719 - INFO - Results written to localdir_20241115_150211.csv
+2024-11-15 15:02:11,719 - INFO - Program ended at 2024-11-15 15:02:11.719210
+2024-11-15 15:02:11,719 - INFO - Total time taken: 0:01:32.399369
+2024-11-15 15:03:37,911 - INFO - Program started at 2024-11-15 15:03:37.911012
+2024-11-15 15:03:41,536 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 15:03:41,537 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 15:03:42,001 - DEBUG - Loading model cost 0.465 seconds.
+2024-11-15 15:03:42,001 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 15:03:42,032 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:03:42,039 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 15:03:45,482 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 15:03:45,483 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 15:03:45,483 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 15:03:45,513 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:04:18,715 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 15:04:25,007 - INFO - Top 10 words in localdir\ppt.ppt: {}
+2024-11-15 15:04:25,007 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 15:04:25,007 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 15:04:25,007 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 15:04:32,370 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {}
+2024-11-15 15:04:32,406 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 15:04:33,038 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:04:33,424 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:04:40,076 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {'读取': 1, '文件': 1, '失败': 1}
+2024-11-15 15:04:40,359 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 15:04:51,080 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {}
+2024-11-15 15:04:51,187 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 15:04:51,190 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 15:04:51,263 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 15:05:00,255 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {}
+2024-11-15 15:05:00,383 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 15:05:00,391 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 15:05:05,122 - INFO - Top 10 words in localdir\雷神.ppt: {}
+2024-11-15 15:05:05,149 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 15:05:05,213 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 15:05:05,243 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:05:05,243 - INFO - Total processed files: 18
+2024-11-15 15:05:05,243 - INFO - Unsupported files: ['localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.ppt', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\Symantec_DLP应用案例.ppt', 'localdir\\神州数码-Bluecoat配置手册v1.0.ppt', 'localdir\\绿盟培训SOP-DS-V3.0R01F03.ppt', 'localdir\\雷神.ppt']
+2024-11-15 15:05:05,248 - INFO - Results written to localdir_20241115_150505.csv
+2024-11-15 15:05:05,248 - INFO - Program ended at 2024-11-15 15:05:05.248452
+2024-11-15 15:05:05,248 - INFO - Total time taken: 0:01:27.337440
+2024-11-15 15:18:40,438 - INFO - Program started at 2024-11-15 15:18:40.438022
+2024-11-15 15:18:43,695 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 15:18:43,696 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 15:18:44,130 - DEBUG - Loading model cost 0.435 seconds.
+2024-11-15 15:18:44,130 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 15:18:44,168 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:18:44,175 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 15:18:47,657 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 15:18:47,657 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 15:18:47,657 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 15:18:47,683 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:19:24,951 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 15:19:31,757 - INFO - Top 10 words in localdir\ppt.ppt: {'爬虫': 58, '网页': 35, '策略': 25, '网络': 24, '抓取': 24, 'URL': 20, '搜索': 17, '一个': 15, '优先': 15, '访问': 13}
+2024-11-15 15:19:31,757 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 15:19:31,757 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 15:19:31,757 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 15:19:37,617 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 15:19:37,662 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 15:19:38,048 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:19:38,443 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:19:44,958 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.ppt: {}
+2024-11-15 15:19:45,287 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 15:20:00,578 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {'配置': 79, '信息': 24, '设备': 21, 'Layer': 20, '管理': 19, 'IP': 19, '设置': 17, '地址': 16, '用户': 16, '选择': 14}
+2024-11-15 15:20:00,685 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 15:20:00,687 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 15:20:00,764 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 15:20:10,631 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, '支持': 40, '资源': 35, '行为': 29}
+2024-11-15 15:20:10,753 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 15:20:10,762 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 15:20:15,519 - INFO - Top 10 words in localdir\雷神.ppt: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 15:20:15,535 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 15:20:15,580 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 15:20:15,600 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:20:15,600 - INFO - Total processed files: 22
+2024-11-15 15:20:15,600 - INFO - Unsupported files: ['localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py', 'localdir\\明朝万达数据梳理使用培训v1.1.ppt']
+2024-11-15 15:20:15,604 - INFO - Results written to localdir_20241115_152015.csv
+2024-11-15 15:20:15,604 - INFO - Program ended at 2024-11-15 15:20:15.604599
+2024-11-15 15:20:15,604 - INFO - Total time taken: 0:01:35.166577
+2024-11-15 15:52:14,561 - INFO - Program started at 2024-11-15 15:52:14.561862
+2024-11-15 15:52:18,114 - DEBUG - Building prefix dict from the default dictionary ...
+2024-11-15 15:52:18,116 - DEBUG - Loading model from cache C:\Users\15562\AppData\Local\Temp\jieba.cache
+2024-11-15 15:52:18,682 - DEBUG - Loading model cost 0.568 seconds.
+2024-11-15 15:52:18,683 - DEBUG - Prefix dict has been built successfully.
+2024-11-15 15:52:18,746 - INFO - Top 10 words in localdir\3.doc: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:52:18,759 - INFO - Top 10 words in localdir\autoauto.xlsm: {'扫描': 66, '恒脑': 62, '数据库': 60, '数据表': 60, 'DEFAULT': 60, '开始': 52, 'INFO': 13, '排队': 11, 'CUST': 9, 'AC': 6}
+2024-11-15 15:52:22,148 - INFO - Top 10 words in localdir\doc.doc: {'故障': 29, '场景': 20, '应急': 17, '处置': 17, '快速': 16, '附录': 16, '系统': 14, '已知': 11, '排查': 9, '手机': 9}
+2024-11-15 15:52:22,149 - WARNING - Unsupported file type: localdir\doc.py
+2024-11-15 15:52:22,149 - WARNING - Unsupported file type: localdir\get_abs_path.py
+2024-11-15 15:52:22,170 - INFO - Top 10 words in localdir\output.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:53:13,456 - INFO - Top 10 words in localdir\PostgreSQL从入门到精通(英文).pdf: {'database': 1492, 'data': 1340, 'PostgreSQL': 1239, 'customer': 685, 'Page': 664, 'rows': 576, 'column': 540, 'command': 528, 'FROM': 514, 'Cfm': 482}
+2024-11-15 15:53:20,834 - INFO - Top 10 words in localdir\ppt.ppt: {'爬虫': 58, '网页': 35, '策略': 25, '网络': 24, '抓取': 24, 'URL': 20, '搜索': 17, '一个': 15, '优先': 15, '访问': 13}
+2024-11-15 15:53:20,834 - WARNING - Unsupported file type: localdir\ppt.py
+2024-11-15 15:53:20,835 - WARNING - Unsupported file type: localdir\read_doc.py
+2024-11-15 15:53:20,835 - WARNING - Unsupported file type: localdir\read_ppt.py
+2024-11-15 15:53:27,327 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.ppt: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 15:53:27,405 - INFO - Top 10 words in localdir\Symantec_DLP应用案例.pptx: {'可以': 35, '进行': 30, '信息': 29, '通过': 26, '事件': 24, '场景': 21, 'DLP': 19, '文件': 18, '邮件': 17, '用户': 16}
+2024-11-15 15:53:28,127 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptm: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:53:28,847 - INFO - Top 10 words in localdir\产品方案-IPGuard一体化终端安全整体解决方案.pptx: {'内容': 27, '文档': 26, '敏感': 23, '管理': 23, '软件': 23, '备份': 20, '文件': 18, '加密': 18, '打印': 16, '支持': 16}
+2024-11-15 15:53:29,378 - INFO - Top 10 words in localdir\明朝万达数据梳理使用培训v1.1.pptx: {'Evaluation': 33, 'Created': 33, 'AsposeSlides': 33, 'Python': 33, 'via': 33, 'NET': 33, 'Copyright': 33, 'Aspose': 33, 'Pty': 33, 'Ltd': 33}
+2024-11-15 15:53:49,167 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.ppt: {'配置': 79, '信息': 24, '设备': 21, 'Layer': 20, '管理': 19, 'IP': 19, '设置': 17, '地址': 16, '用户': 16, '选择': 14}
+2024-11-15 15:53:49,357 - INFO - Top 10 words in localdir\神州数码-Bluecoat配置手册v1.0.pptx: {'配置': 79, 'Evaluation': 78, 'Created': 78, 'AsposeSlides': 78, 'Python': 78, 'via': 78, 'NET': 78, 'Copyright': 78, 'Aspose': 78, 'Pty': 78}
+2024-11-15 15:53:49,362 - INFO - Top 10 words in localdir\策略导入模板.xls: {'规则': 2, '名称': 1, '内容': 1, '一级': 1, '二级': 1, '三级': 1, '四级': 1, '五级': 1, '分级': 1}
+2024-11-15 15:53:49,542 - INFO - Top 10 words in localdir\终端DLP用户使用手册-Kylin.docx: {'敏感': 33, '水印': 28, '确认': 26, '策略': 25, '文件': 24, '设定': 24, '准备': 22, '工作': 22, '里面': 22, '通道': 21}
+2024-11-15 15:54:00,533 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.ppt: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, '支持': 40, '资源': 35, '行为': 29}
+2024-11-15 15:54:00,747 - INFO - Top 10 words in localdir\绿盟培训SOP-DS-V3.0R01F03.pptx: {'数据': 136, '资产': 71, '数据库': 55, '事件': 51, 'API': 47, '展示': 44, '访问': 43, 'Evaluation': 42, 'Created': 42, 'AsposeSlides': 42}
+2024-11-15 15:54:00,764 - INFO - Top 10 words in localdir\金融测试数据 - 副本.xlsx: {'DEFAULT': 58, '客户': 30, 'CLIENT': 30, '风险': 29, '信息': 28, 'RISK': 28, '等级': 27, '基金': 26, '理财': 26, '全量表': 26}
+2024-11-15 15:54:05,526 - INFO - Top 10 words in localdir\雷神.ppt: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 15:54:05,545 - INFO - Top 10 words in localdir\雷神.pptx: {'网络': 12, '密级': 9, 'Trusted': 9, '进行': 7, '安全': 7, '雷神': 6, '数据': 6, '产品': 5, '提供': 5, '传输': 5}
+2024-11-15 15:54:05,593 - INFO - Top 10 words in localdir\sub1\PPTtoPPTX_out.pptx: {'爬虫': 58, 'Evaluation': 40, 'Created': 40, 'AsposeSlides': 40, 'Python': 40, 'via': 40, 'NET': 40, 'Copyright': 40, 'Aspose': 40, 'Pty': 40}
+2024-11-15 15:54:05,615 - INFO - Top 10 words in localdir\sub1\sub1-1\红楼梦_1.txt: {'士隐': 10, '一段': 9, '道人': 9, '雨村': 9, '故事': 8, '弟子': 8, '不知': 8, '女子': 7, '不过': 7, '二人': 7}
+2024-11-15 15:54:05,615 - INFO - Total processed files: 22
+2024-11-15 15:54:05,615 - INFO - Unsupported files: ['localdir\\doc.py', 'localdir\\get_abs_path.py', 'localdir\\ppt.py', 'localdir\\read_doc.py', 'localdir\\read_ppt.py']
+2024-11-15 15:54:05,622 - INFO - Results written to localdir_20241115_155405.csv
+2024-11-15 15:54:05,622 - INFO - Program ended at 2024-11-15 15:54:05.622649
+2024-11-15 15:54:05,622 - INFO - Total time taken: 0:01:51.060787
