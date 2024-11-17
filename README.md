@@ -1,4 +1,3 @@
-# word_frequency_statistics
 # 词频统计程序使用说明手册
 
 ## 1. 程序概述
